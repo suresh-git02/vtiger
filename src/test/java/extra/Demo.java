@@ -10,6 +10,7 @@ public class Demo {
 		System.out.println("hii i am suresh");
 		
 		System.out.println(" hii haryana");
+		system.out.println("hii just for practice");
 
 	}
 
